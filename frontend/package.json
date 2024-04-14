@@ -58,7 +58,7 @@
     "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "compare-versions": "^3.6.0",
-    "dompurify": "^2.2.6",
+    "dompurify": "^2.4.9",
     "lodash-es": "^4.17.15",
     "monaco-editor": "^0.31.1",
     "monaco-editor-webpack-plugin": "^7.0.1",
